@@ -2,7 +2,6 @@
     margin:0;
     padding:0;
 }
-
 #indexp{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
@@ -10,16 +9,14 @@
 .divnoticia{
     text-align: center;
 }
-
 #jpbody{
     background-color:black;
 }
-
 #jpdiv{
     width:90%;
     height:500px;
     background-color:
-    margin:auto;
+    margin: auto;
 }
 #jpagaum{
     text-align:center;
@@ -38,10 +35,7 @@
 
 
 
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
 
 
 
@@ -122,9 +116,10 @@
 
 .h12{
     width:100%;
-    background-color:rgb(207, 36, 36);
+    background-color:rgb(0, 0, 0);
     text-align: center;
-    margin: auto;
+    color: white;
+    border-radius: 0 10px;
 }
 .not1{
     color: black;
@@ -135,7 +130,29 @@
     border-radius: 10px;
     box-shadow: 10px 10px 10px	#709713;
 }
-=======
->>>>>>> e100edb72ae2f33ec159023a414d7374efb2a228
->>>>>>> 97fb9e3b74d0e534e496311f10e93a98f878a100
->>>>>>> 37ada61ffe4263561bf5cd5255166fdced7bd227
+.tith2{
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+    padding: 0;
+    margin: auto;
+    font-size: 4vw;
+}
+.not1{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    background-size: 100%;
+    text-align: center;
+    color: white;
+    display: inline-block;            
+    font-size: 20px;
+    padding: 30px;
+}
+.cdb{
+    width: 90%;
+    background-color:	#ffffff;
+    margin: auto;
+    margin-top: 10px;
+}
