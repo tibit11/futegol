@@ -8,13 +8,15 @@
 #jpagaum{
     text-align:center;
     font-size:50px;
+    font-size:min(50px,8vw);
     color:white;
 }
 
 #jppe{
     text-align:center;
-    font-size:25px;
     color:white;
+    font-size:25px;
+    font-size:min(25px,4vw);
 }
 
 
