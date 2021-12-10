@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #indexp{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
@@ -5,3 +6,28 @@
 .divnoticia{
     text-align: center;
 }
+=======
+#jpdiv{
+    width:90%;
+    height:500px;
+    background-color:;
+    margin:auto;
+}
+
+#jpagaum{
+    text-align:center;
+    font-size:50px;
+    color:white;
+}
+
+#jppe{
+    text-align:center;
+    font-size:25px;
+    color:white;
+}
+
+
+
+
+
+>>>>>>> e100edb72ae2f33ec159023a414d7374efb2a228
