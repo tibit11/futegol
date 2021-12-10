@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+#indexp{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.divnoticia{
+    text-align: center;
+}
+=======
 #jpdiv{
     width:90%;
     height:500px;
@@ -7,18 +16,21 @@
 #jpagaum{
     text-align:center;
     font-size:50px;
+    font-size:min(50px,8vw);
     color:white;
 }
 #jppe{
     text-align:center;
-    font-size:25px;
     color:white;
+    font-size:25px;
+    font-size:min(25px,4vw);
 }
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -112,3 +124,6 @@
     border-radius: 10px;
     box-shadow: 10px 10px 10px	#709713;
 }
+=======
+>>>>>>> e100edb72ae2f33ec159023a414d7374efb2a228
+>>>>>>> 97fb9e3b74d0e534e496311f10e93a98f878a100
