@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 #indexp{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
@@ -8,7 +12,7 @@
 #jpdiv{
     width:90%;
     height:500px;
-    background-color:;
+    background-color:
     margin:auto;
 }
 #jpagaum{
@@ -19,10 +23,11 @@
 }
 #jppe{
     text-align:center;
-    color:white;
     font-size:25px;
     font-size:min(25px,4vw);
+    color:white;
 }
+
 
 
 
@@ -126,5 +131,3 @@
     background-color: rgb(0, 0, 0);
     color: yellow;
 }
-
-
